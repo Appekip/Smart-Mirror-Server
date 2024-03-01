@@ -4,7 +4,7 @@ How to setup
 
 2. Install node https://nodejs.org/en/download (Skip if already installed)
 
-3. Run the powershell script serverstart.ps1 (You may need to enable powershell scripts)
+3. Run the powershell file serverstart.ps1 (You may need to enable powershell scripts)
 
 4. Application should be up and running in Microsoft Edge Kiosk mode
 
