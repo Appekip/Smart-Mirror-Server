@@ -6,5 +6,5 @@ How to setup
 
 3. Run the powershell file serverstart.ps1 (You may need to enable powershell scripts)
 
-4. Application should be up and running in Microsoft Edge Kiosk mode
+4. Application should be up and running in Microsoft Edge Kiosk mode 
 
